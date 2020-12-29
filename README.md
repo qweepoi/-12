@@ -1,1 +1,1 @@
-# -12
+{"لینک:":"https://as4.cdn.asset.aparat.com/aparat-video/d861cd2d79a40629ba9cef5ee8e7d69424754062-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImYyZjA0NmU1M2FlMjI0ZjM4N2I2NGQ3M2U0MzBkZDgwIiwiZXhwIjoxNjA5MjQzNDI5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.6yY9dAsDOSgN4YrqAvQ2RK6__28OjuGTlSIcRAVpNr0","ایا برنامه فیلم دارد:":"بله","متن نمایشی:":"فعلا فیلمی روی پرده سینما وجود ندارد درصورت درخواست انیمه روی دکمه زیر کلیک کنید.",
